@@ -39,8 +39,7 @@ This project is designed using **Figma** and focuses on creating an intuitive an
 ---
 
 ## 🔗 Figma Project Link
-👉 Paste your Figma link here  
-(Example: https://www.figma.com/your-project-link)
+https://www.figma.com/make/EoR0ip8AXkxv3gWL9bmibL/Smart-Student-Dashboard-UI?fullscreen=1&t=l4L1URj24XW84NtZ-1
 
 ---
 
@@ -75,4 +74,3 @@ MCA Student, Chandigarh University
 
 ## ⭐ Acknowledgement
 Special thanks to faculty and peers for their guidance and support throughout this project.
-https://www.figma.com/make/EoR0ip8AXkxv3gWL9bmibL/Smart-Student-Dashboard-UI?fullscreen=1&t=l4L1URj24XW84NtZ-1
